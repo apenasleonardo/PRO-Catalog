@@ -1,0 +1,6 @@
+{
+  "name": "PRO PvP Team Catalog",
+  "description": "Um catálogo completo e visual de times de PvP do Pokémon Revolution Online (PRO) para ajudar jogadores iniciantes e experientes a entender e copiar times.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
